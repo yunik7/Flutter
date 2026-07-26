@@ -1,4 +1,6 @@
 # 📱 Flutter Application Development: Concepts, Design, State Management, and Practical Implementation
+
+## 📸 App Demonstration & Output
 <img width="1910" height="962" alt="Screenshot 2026-07-26 175908" src="https://github.com/user-attachments/assets/30851424-77df-4c45-9f3c-b042e95d93c9" />
 <img width="1906" height="976" alt="Screenshot 2026-07-26 175852" src="https://github.com/user-attachments/assets/80a7b162-45cc-4720-a175-84f2d74286ec" />
 <img width="1910" height="963" alt="Screenshot 2026-07-26 175836" src="https://github.com/user-attachments/assets/5a7e3c83-3a04-45bb-91d2-e0632fe8ee5b" />
@@ -6,9 +8,7 @@
 
 A comprehensive Flutter project developed as part of an academic assignment covering the fundamentals of Flutter application development, Dart programming, UI design, state management, navigation, animations, and practical implementation. The project demonstrates both theoretical concepts and hands-on Flutter programming through multiple examples and assignments.
 
----
 
-## 📸 App Demonstration & Output
 
 <!-- DRAG AND DROP YOUR APP SCREENSHOT (Screenshot 2026-07-26 174938.png) DIRECTLY BELOW THIS LINE -->
 
