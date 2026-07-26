@@ -60,6 +60,60 @@ The project also includes practical implementations such as navigation, animatio
 * Dart OOP Examples
 * Flutter Assignment Programs
 
+* Run the application
+Bash
+dart run lib/parta.dart
+dart run lib/partb.dart
+flutter run -d chrome -t lib/navigation.dart --release
+flutter run -d chrome -t lib/web_UI.dart --release
+flutter run -d chrome -t lib/animation.dart --release
+
+📌 Assignment Coverage
+This repository includes implementations and explanations for:
+
+Flutter Fundamentals
+
+Flutter Architecture
+
+Dart Programming Basics
+
+Object-Oriented Programming
+
+Widget Design
+
+Stateless & Stateful Widgets
+
+Navigation
+
+State Management
+
+Responsive UI
+
+Flutter Animations
+
+Practical Flutter Programs
+
+🔮 Future Improvements
+Provider State Management
+
+Riverpod Integration
+
+Bloc Architecture
+
+Firebase Authentication
+
+REST API Integration
+
+Local Database (SQLite)
+
+Push Notifications
+
+Dark Mode Support
+
+Unit & Widget Testing
+
+Clean Architecture Implementation
+
 ---
 
 ## 📁 Repository Structure
