@@ -60,7 +60,20 @@ The project also includes practical implementations such as navigation, animatio
 * Dart OOP Examples
 * Flutter Assignment Programs
 
-* Run the application
+Markdown
+## 🚀 Getting Started
+
+### Clone the repository
+
+```bash
+git clone [https://github.com/yunik7/Flutter.git](https://github.com/yunik7/Flutter.git)
+Navigate into the project
+Bash
+cd flutter_application_1
+Install dependencies
+Bash
+flutter pub get
+Run the application
 Bash
 dart run lib/parta.dart
 dart run lib/partb.dart
