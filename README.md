@@ -165,7 +165,20 @@ Visual Studio Code
 
 Git & GitHub
 
-👨‍💻 Author
-Yunik Bohara
+---
 
-GitHub: yunik7
+## 📄 License
+
+This project is developed for educational purposes as part of a Flutter Application Development assignment.
+
+---
+
+## 👨‍💻 Author
+
+**Yunik Bohara**
+
+GitHub: https://github.com/yunik7
+
+---
+
+⭐ If you found this repository useful, consider giving it a star.
